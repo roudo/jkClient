@@ -38,7 +38,7 @@
             
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.jkClient.com</string>
+                <string>com.jkProject.client</string>
                 <key>bundle-version</key>
                 <string>1.0.0</string>
                 <key>kind</key>
