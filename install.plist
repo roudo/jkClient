@@ -12,7 +12,7 @@
                   <key>kind</key>
                   <string>software-package</string>
                   <key>url</key>
-                  <string>http://192.168.8.190:8080/userContent/jk.ipa</string>
+                  <string>http://192.168.8.190:8081/ipa/jk.ipa</string>
               </dict> 
                              
               <dict>
@@ -21,7 +21,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://192.168.8.190:8080/userContent/1.png</string>
+                    <string>http://192.168.8.190:8081/1.png</string>
                 </dict>
 
                 <dict>
@@ -30,7 +30,7 @@
                     <key>needs-shine</key>
                     <true/>
                     <key>url</key>
-                    <string>http://192.168.8.190:8080/userContent/2.png</string>
+                    <string>http://192.168.8.190:8081/2.png</string>
                 </dict>
            </array>
             
